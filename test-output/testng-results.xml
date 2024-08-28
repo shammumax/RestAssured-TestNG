@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-18T21:22:26 IST" name="Default suite" finished-at="2024-08-18T21:22:39 IST" duration-ms="13409">
+    <groups>
+    </groups>
+    <test started-at="2024-08-18T21:22:26 IST" name="Default test" finished-at="2024-08-18T21:22:39 IST" duration-ms="13409">
+      <class name="testclasses.JiraTicketsTest">
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:26 IST" name="setExceldata" finished-at="2024-08-18T21:22:28 IST" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="addTicketTest()[pri:1, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:28 IST" name="addTicketTest" finished-at="2024-08-18T21:22:34 IST" duration-ms="6097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTicketTest -->
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:34 IST" name="setExceldata" finished-at="2024-08-18T21:22:34 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="getTicketToCheckPostTest()[pri:2, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:34 IST" name="getTicketToCheckPostTest" finished-at="2024-08-18T21:22:35 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTicketToCheckPostTest -->
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:35 IST" name="setExceldata" finished-at="2024-08-18T21:22:35 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="modifyTicketTest()[pri:3, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:35 IST" name="modifyTicketTest" finished-at="2024-08-18T21:22:36 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyTicketTest -->
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:36 IST" name="setExceldata" finished-at="2024-08-18T21:22:36 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="getTicketToCheckPutTest()[pri:4, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:36 IST" name="getTicketToCheckPutTest" finished-at="2024-08-18T21:22:37 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTicketToCheckPutTest -->
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:37 IST" name="setExceldata" finished-at="2024-08-18T21:22:37 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="deleteTicketTest()[pri:5, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:37 IST" name="deleteTicketTest" finished-at="2024-08-18T21:22:38 IST" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTicketTest -->
+        <test-method is-config="true" signature="setExceldata()[pri:0, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:38 IST" name="setExceldata" finished-at="2024-08-18T21:22:38 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExceldata -->
+        <test-method signature="getTicketToCheckDeleteTest()[pri:6, instance:testclasses.JiraTicketsTest@1189dd52]" started-at="2024-08-18T21:22:38 IST" name="getTicketToCheckDeleteTest" finished-at="2024-08-18T21:22:39 IST" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTicketToCheckDeleteTest -->
+      </class> <!-- testclasses.JiraTicketsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

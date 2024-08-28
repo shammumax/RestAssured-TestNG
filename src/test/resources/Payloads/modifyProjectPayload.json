@@ -1,0 +1,13 @@
+{
+  "assigneeType": "PROJECT_LEAD",
+  "avatarId":null,
+  "categoryId": null,
+  "description": "Cloud migration initiative",
+  "issueSecurityScheme": null,
+  "key": "$projectkey",
+  "leadAccountId": "5b10a0effa615349cb016cd8",
+  "name": "$projectname",
+  "notificationScheme": null,
+  "permissionScheme": null,
+  "url": "http://atlassian.com"
+}

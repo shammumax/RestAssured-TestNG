@@ -1,0 +1,15 @@
+{
+  "assigneeType": "PROJECT_LEAD",
+  "avatarId": 10200,
+  "categoryId": null,
+  "description": "Cloud migration initiative",
+  "issueSecurityScheme": null,
+  "key": "$projectkey",
+  "leadAccountId": "611a583947d1df00761ea478",
+  "name": "$projectname",
+  "notificationScheme":null,
+  "permissionScheme": null,
+  "projectTemplateKey":"com.pyxis.greenhopper.jira:gh-simplified-agility-scrum",
+  "projectTypeKey":"software",
+  "url": "http://atlassian.com"
+}
